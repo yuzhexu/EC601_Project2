@@ -4,18 +4,20 @@
 
 # Product User Stories
 
-As a hiking enthusiast, I want to find trails near my current location, so that I can explore local nature easily.
-As a novice hiker, I want to see trail difficulty levels, so that I can choose paths that match my fitness level.
-As an environmentally conscious hiker, I want to learn about the wildlife and plants I might encounter on the trails, so that I can hike without disturbing the ecosystem.
-As a social hiker, I want to share my favorite trails with friends, so that we can enjoy hiking together.
-As a prepared hiker, I want to know the weather forecast for my hiking destination, so that I can plan my hike accordingly.
+As a hiking enthusiast, I want to find trails near my current location, so that I can explore local nature easily.</br>
+As a hiking enthusiast, I want to search hiking paths in the area I want to go hiking</br>
+As a User, I want to able to record my hiking imformations such as my avg speed, total distance and height</br>
+As a novice hiker, I want to see trail difficulty levels, so that I can choose paths that match my fitness level.</br>
+As an environmentally conscious hiker, I want to learn about the wildlife and plants I might encounter on the trails, so that I can hike without disturbing the ecosystem.</br>
+As a social hiker, I want to share my favorite trails with friends, so that we can enjoy hiking together.</br>
+As a prepared hiker, I want to know the weather forecast for my hiking destination, so that I can plan my hike accordingly.</br>
 
 # Minimum Viable Product (MVP)
 
-A searchable map interface using the Google Maps API to locate hiking trails.
-Trail descriptions with difficulty ratings and distance.
-Current weather conditions displayed for each trail location.
-Social sharing capabilities to share trails with friends via social media or within the app itself.
+A searchable map interface using the Google Maps API to locate hiking trails.</br>
+Trail descriptions with difficulty ratings and distance.</br>
+Current weather conditions displayed for each trail location.</br>
+Social sharing capabilities to share trails with friends via social media or within the app itself.</br>
 
 # Google Maps API
 
