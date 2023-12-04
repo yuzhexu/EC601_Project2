@@ -11,6 +11,8 @@ As a novice hiker, I want to see trail difficulty levels, so that I can choose p
 As an environmentally conscious hiker, I want to learn about the wildlife and plants I might encounter on the trails, so that I can hike without disturbing the ecosystem.</br>
 As a social hiker, I want to share my favorite trails with friends, so that we can enjoy hiking together.</br>
 As a prepared hiker, I want to know the weather forecast for my hiking destination, so that I can plan my hike accordingly.</br>
+As a hiking enthusiast, I want to record my hiking path and share it with others.</br>
+
 
 # Minimum Viable Product (MVP)
 
@@ -24,3 +26,4 @@ Social sharing capabilities to share trails with friends via social media or wit
 Search for Trails: Use the Google Maps API to allow users to search for trails based on their current location or a specified area.
 Trail Details: Overlay trail information on the map, including the path, length, and difficulty, using custom markers or layers.
 Weather Integration: Integrate a weather API to display current weather conditions on the map at the location of the trails.
+And Hiking API provide by exsit hiking website, get hiking path from the hiking applications.
