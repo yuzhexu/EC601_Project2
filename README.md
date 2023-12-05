@@ -44,5 +44,5 @@ out skel qt;
 `git clone https://github.com/yourusername/your-repo-name.git`</br>
 `cd EC601_Project2`</br>
 Create .env file and replace your Google api key 
-`node demo.js`</br>
-Open broswer and visit localhost 3000
+`npm install`</br>
+`npm start`</br>
