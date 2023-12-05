@@ -27,3 +27,22 @@ Search for Trails: Use the Google Maps API to allow users to search for trails b
 Trail Details: Overlay trail information on the map, including the path, length, and difficulty, using custom markers or layers.
 Weather Integration: Integrate a weather API to display current weather conditions on the map at the location of the trails.
 And Hiking API provide by exsit hiking website, get hiking path from the hiking applications.
+# overpass API
+get hiking pass as geojosn file and load it to my app. querey all hiking trails taged in overpass
+/*
+https://overpass-turbo.eu/#
+*/
+<pre>
+[out:xml][timeout:25];</br>
+( 
+  rel[route]["osmc:symbol"][route="hiking"]({{bbox}});</br>
+);</br>
+out body;>;
+out skel qt;
+</pre>
+# running instruction 
+`git clone https://github.com/yourusername/your-repo-name.git`</br>
+`cd EC601_Project2`</br>
+`npm install http-server`</br>
+`./node_modules/.bin/http-server`</br>
+clike demo.html
