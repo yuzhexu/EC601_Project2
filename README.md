@@ -39,10 +39,11 @@ https://overpass-turbo.eu/#
 );</br>
 out body;>;
 out skel qt;
-</pre>
+</pre>  
 # running instruction 
 `git clone https://github.com/yourusername/your-repo-name.git`</br>
 `cd EC601_Project2`</br>
 `npm install http-server`</br>
 `./node_modules/.bin/http-server`</br>
+replace your Google api key
 clike demo.html
