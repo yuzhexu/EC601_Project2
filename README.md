@@ -43,6 +43,6 @@ out skel qt;
 # running instruction 
 `git clone https://github.com/yourusername/your-repo-name.git`</br>
 `cd EC601_Project2`</br>
-Create .env file and replace your Google api key 
+Create .env file and replace your Google api key </br>
 `npm install`</br>
 `npm start`</br>
